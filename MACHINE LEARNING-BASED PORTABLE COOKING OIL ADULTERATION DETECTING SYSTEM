@@ -1,0 +1,64 @@
+
+# MACHINE LEARNING-BASED PORTABLE COOKING OIL ADULTERATION DETECTING SYSTEM
+
+## Project Overview
+This project aims to develop a portable system to detect possible adulteration in cooking oil using machine learning techniques.
+
+The system analyzes sensor data from cooking oil samples and uses a trained machine learning model to classify the oil condition.
+
+## Main Components
+- Microcontroller
+- Oil Quality Sensors
+- Temperature Sensor
+- Optical Sensor
+- Machine Learning Model
+- Display Module
+- Power Supply
+
+## Working Principle
+1. A small cooking oil sample is placed in the testing unit.
+2. Sensors collect data from the oil sample.
+3. The collected sensor data is processed.
+4. Machine learning algorithms analyze the sensor readings.
+5. The system classifies the oil sample based on the trained model.
+6. The result is displayed to the user.
+
+## Detection Results
+- Normal Oil
+- Suspected Adulterated Oil
+
+## Technologies Used
+- Machine Learning
+- Python
+- Sensor Data Processing
+- Embedded Systems
+- Data Classification
+
+## Applications
+- Cooking oil quality screening
+- Food quality monitoring
+- Portable oil testing
+- Food safety awareness
+- Small-scale food industries
+
+## Project Features
+- Portable testing system
+- Machine learning-based classification
+- Sensor-based data collection
+- Quick result display
+- User-friendly operation
+
+## Project Type
+Machine Learning and Embedded Systems Project
+
+## Objective
+To develop an affordable and portable system for preliminary screening of cooking oil adulteration using sensor data and machine learning.
+
+## Future Scope
+- Improve classification accuracy
+- Support multiple cooking oil types
+- Add more sensing parameters
+- Develop mobile application connectivity
+
+## Safety and Limitations
+The system provides preliminary screening results. Laboratory testing is required to confirm suspected adulteration.
